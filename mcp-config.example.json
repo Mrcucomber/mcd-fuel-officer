@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcd-mcp": {
+      "type": "http",
+      "url": "https://mcp.mcd.cn",
+      "headers": {
+        "Authorization": "Bearer YOUR_MCP_TOKEN"
+      },
+      "description": "麦当劳中国 MCP Server（示例配置，请勿填写真实 Token，仅作占位）"
+    }
+  }
+}
